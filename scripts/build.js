@@ -53,7 +53,6 @@ exports.getSwAdditionalEntries = () => {
         '*.woff',
         'mesher.js',
         'worldSaveWorker.js',
-        `textures/entity/squid/squid.png`,
         // everything but not .map
         'static/**/!(*.map)',
     ]
